@@ -25,7 +25,7 @@ for i in range(0,6):
 for counter in range(0,10,2):
     print(counter)
 
-
+#Print every second element
 mail_list = ["nifr@kea.dk", 10, "behu@kea.dk", 12,"cbvi@kea.dk",15]
 
 for element in mail_list[::2]:
