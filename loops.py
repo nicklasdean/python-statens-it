@@ -19,3 +19,14 @@ for i in range(1,6):
 counter = 0
 for i in range(0,6):
     counter += 1
+
+
+#Print every second number
+for counter in range(0,10,2):
+    print(counter)
+
+
+mail_list = ["nifr@kea.dk", 10, "behu@kea.dk", 12,"cbvi@kea.dk",15]
+
+for element in mail_list[::2]:
+    print(element)
