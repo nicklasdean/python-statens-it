@@ -27,4 +27,6 @@ if user_input.isnumeric():
 else:
     print("Wrong input format")
 
-#is in list, not in list
+#While input is not
+
+#in list, not in list
