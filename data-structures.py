@@ -61,4 +61,6 @@ print(postnumre.keys())
 print(postnumre.values())
 print(postnumre.items())
 
+postnumre.update({2830:"Virum",2840:"Virum-Sorgenfri"})
+print(postnumre.get(2830))
 #Car-list
