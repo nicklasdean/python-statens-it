@@ -25,6 +25,3 @@ participants = ["Nicklas", "Jarl", "Benjamin", "Claus"]
 #Postnummer
 
 #Car-list
-
-#Adding wishes to a wishlist
-#Printing to a file
